@@ -52,3 +52,5 @@ The Sender.cs script is responsible for managing the transmission of EMG data in
     Sender.cs includes functionality to handle the application's shutdown process.
     When the form is closing, it cancels any ongoing data transmission to ensure that the application shuts down cleanly.
 
+For demonstration purposes you can use the added receiver_lsl_test.py script can be used.
+
