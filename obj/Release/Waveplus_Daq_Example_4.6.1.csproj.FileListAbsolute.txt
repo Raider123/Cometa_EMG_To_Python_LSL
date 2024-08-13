@@ -1,0 +1,17 @@
+D:\C# Projects\NoGravEx_Entwurf3\bin\Release\CyUSB.dll
+D:\C# Projects\NoGravEx_Entwurf3\bin\Release\Waveplus.DaqSys.pdb
+D:\C# Projects\NoGravEx_Entwurf3\bin\Release\Waveplus.DaqSysInterface.pdb
+D:\C# Projects\NoGravEx_Entwurf3\obj\Release\Waveplus_Daq_Example_4.6.1.csproj.AssemblyReference.cache
+D:\C# Projects\NoGravEx_Entwurf3\obj\Release\Waveplus_Daq_Example_4.6.1.csproj.SuggestedBindingRedirects.cache
+D:\C# Projects\NoGravEx_Entwurf3\obj\Release\Waveplus.DaqExample.WaveplusDaqExampleForm.resources
+D:\C# Projects\NoGravEx_Entwurf3\obj\Release\Waveplus.DaqExample.CaptureAndSensorConfigForm.resources
+D:\C# Projects\NoGravEx_Entwurf3\obj\Release\Waveplus_Daq_Example_4.6.1.csproj.GenerateResource.cache
+D:\C# Projects\NoGravEx_Entwurf3\obj\Release\Waveplus_Daq_Example_4.6.1.csproj.CoreCompileInputs.cache
+D:\C# Projects\NoGravEx_Entwurf3\obj\Release\Waveplus_Daq_Example_4.6.1.csproj.CopyComplete
+D:\C# Projects\NoGravEx_Entwurf3\bin\Release\Waveplus_Daq_Example.exe.config
+D:\C# Projects\NoGravEx_Entwurf3\bin\Release\Waveplus_Daq_Example.exe
+D:\C# Projects\NoGravEx_Entwurf3\bin\Release\Waveplus_Daq_Example.pdb
+D:\C# Projects\NoGravEx_Entwurf3\obj\Release\Waveplus_Daq_Example.Properties.Resources.resources
+D:\C# Projects\NoGravEx_Entwurf3\obj\Release\Waveplus_Daq_Example.exe
+D:\C# Projects\NoGravEx_Entwurf3\obj\Release\Waveplus_Daq_Example.pdb
+D:\C# Projects\NoGravEx_Entwurf3\obj\Release\NoGravEx_Entwurf2.NoGravEx_V2.resources

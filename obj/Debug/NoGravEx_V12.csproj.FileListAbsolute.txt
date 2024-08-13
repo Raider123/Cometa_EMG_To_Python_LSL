@@ -1,0 +1,137 @@
+C:\Users\julia\Downloads\NoGravEx_V12 Neu\NoGravEx_V12\obj\Debug\NoGravEx_V12.csproj.AssemblyReference.cache
+C:\Users\julia\Downloads\NoGravEx_V12 Neu\NoGravEx_V12\obj\Debug\NoGravEx_V12.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\Downloads\NoGravEx_V12 Neu\NoGravEx_V12\bin\Debug\Waveplus_Daq_Example.exe.config
+C:\Users\julia\Downloads\NoGravEx_V12 Neu\NoGravEx_V12\bin\Debug\Waveplus_Daq_Example.exe
+C:\Users\julia\Downloads\NoGravEx_V12 Neu\NoGravEx_V12\bin\Debug\Waveplus_Daq_Example.pdb
+C:\Users\julia\Downloads\NoGravEx_V12 Neu\NoGravEx_V12\bin\Debug\Waveplus.DaqSys.dll
+C:\Users\julia\Downloads\NoGravEx_V12 Neu\NoGravEx_V12\bin\Debug\Waveplus.DaqSysInterface.dll
+C:\Users\julia\Downloads\NoGravEx_V12 Neu\NoGravEx_V12\bin\Debug\CyUSB.dll
+C:\Users\julia\Downloads\NoGravEx_V12 Neu\NoGravEx_V12\obj\Debug\NoGravEx_Entwurf2.NoGravEx_V2.resources
+C:\Users\julia\Downloads\NoGravEx_V12 Neu\NoGravEx_V12\obj\Debug\Waveplus.DaqExample.WaveplusDaqExampleForm.resources
+C:\Users\julia\Downloads\NoGravEx_V12 Neu\NoGravEx_V12\obj\Debug\Waveplus_Daq_Example.Properties.Resources.resources
+C:\Users\julia\Downloads\NoGravEx_V12 Neu\NoGravEx_V12\obj\Debug\Waveplus.DaqExample.CaptureAndSensorConfigForm.resources
+C:\Users\julia\Downloads\NoGravEx_V12 Neu\NoGravEx_V12\obj\Debug\NoGravEx_V12.csproj.GenerateResource.cache
+C:\Users\julia\Downloads\NoGravEx_V12 Neu\NoGravEx_V12\obj\Debug\NoGravEx_V12.csproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\NoGravEx_V12 Neu\NoGravEx_V12\obj\Debug\NoGravEx_V12.csproj.CopyComplete
+C:\Users\julia\Downloads\NoGravEx_V12 Neu\NoGravEx_V12\obj\Debug\Waveplus_Daq_Example.exe
+C:\Users\julia\Downloads\NoGravEx_V12 Neu\NoGravEx_V12\obj\Debug\Waveplus_Daq_Example.pdb
+C:\Users\julia\Downloads\NoGravEx_V14\NoGravEx_V14\bin\Debug\Waveplus_Daq_Example.exe.config
+C:\Users\julia\Downloads\NoGravEx_V14\NoGravEx_V14\bin\Debug\Waveplus_Daq_Example.exe
+C:\Users\julia\Downloads\NoGravEx_V14\NoGravEx_V14\bin\Debug\Waveplus_Daq_Example.pdb
+C:\Users\julia\Downloads\NoGravEx_V14\NoGravEx_V14\bin\Debug\Waveplus.DaqSys.dll
+C:\Users\julia\Downloads\NoGravEx_V14\NoGravEx_V14\bin\Debug\Waveplus.DaqSysInterface.dll
+C:\Users\julia\Downloads\NoGravEx_V14\NoGravEx_V14\bin\Debug\CyUSB.dll
+C:\Users\julia\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.AssemblyReference.cache
+C:\Users\julia\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_Entwurf2.NoGravEx_V2.resources
+C:\Users\julia\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus.DaqExample.WaveplusDaqExampleForm.resources
+C:\Users\julia\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus_Daq_Example.Properties.Resources.resources
+C:\Users\julia\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus.DaqExample.CaptureAndSensorConfigForm.resources
+C:\Users\julia\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.GenerateResource.cache
+C:\Users\julia\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.CopyComplete
+C:\Users\julia\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus_Daq_Example.exe
+C:\Users\julia\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus_Daq_Example.pdb
+D:\C# Projects\NoGravEx_V14\NoGravEx_V14\bin\Debug\Waveplus_Daq_Example.exe.config
+D:\C# Projects\NoGravEx_V14\NoGravEx_V14\bin\Debug\Waveplus_Daq_Example.exe
+D:\C# Projects\NoGravEx_V14\NoGravEx_V14\bin\Debug\Waveplus_Daq_Example.pdb
+D:\C# Projects\NoGravEx_V14\NoGravEx_V14\bin\Debug\CyUSB.dll
+D:\C# Projects\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.AssemblyReference.cache
+D:\C# Projects\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.SuggestedBindingRedirects.cache
+D:\C# Projects\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_Entwurf2.NoGravEx_V2.resources
+D:\C# Projects\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus.DaqExample.WaveplusDaqExampleForm.resources
+D:\C# Projects\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus_Daq_Example.Properties.Resources.resources
+D:\C# Projects\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus.DaqExample.CaptureAndSensorConfigForm.resources
+D:\C# Projects\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.GenerateResource.cache
+D:\C# Projects\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.CoreCompileInputs.cache
+D:\C# Projects\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.CopyComplete
+D:\C# Projects\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus_Daq_Example.exe
+D:\C# Projects\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus_Daq_Example.pdb
+C:\Users\julia\OneDrive - Universitaet Duisburg-Essen\Desktop\Ausführungsdaten\NoGravEx_V14\NoGravEx_V14\bin\Debug\Waveplus_Daq_Example.exe.config
+C:\Users\julia\OneDrive - Universitaet Duisburg-Essen\Desktop\Ausführungsdaten\NoGravEx_V14\NoGravEx_V14\bin\Debug\Waveplus_Daq_Example.exe
+C:\Users\julia\OneDrive - Universitaet Duisburg-Essen\Desktop\Ausführungsdaten\NoGravEx_V14\NoGravEx_V14\bin\Debug\Waveplus_Daq_Example.pdb
+C:\Users\julia\OneDrive - Universitaet Duisburg-Essen\Desktop\Ausführungsdaten\NoGravEx_V14\NoGravEx_V14\bin\Debug\CyUSB.dll
+C:\Users\julia\OneDrive - Universitaet Duisburg-Essen\Desktop\Ausführungsdaten\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive - Universitaet Duisburg-Essen\Desktop\Ausführungsdaten\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\OneDrive - Universitaet Duisburg-Essen\Desktop\Ausführungsdaten\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_Entwurf2.NoGravEx_V2.resources
+C:\Users\julia\OneDrive - Universitaet Duisburg-Essen\Desktop\Ausführungsdaten\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus.DaqExample.WaveplusDaqExampleForm.resources
+C:\Users\julia\OneDrive - Universitaet Duisburg-Essen\Desktop\Ausführungsdaten\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus_Daq_Example.Properties.Resources.resources
+C:\Users\julia\OneDrive - Universitaet Duisburg-Essen\Desktop\Ausführungsdaten\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus.DaqExample.CaptureAndSensorConfigForm.resources
+C:\Users\julia\OneDrive - Universitaet Duisburg-Essen\Desktop\Ausführungsdaten\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive - Universitaet Duisburg-Essen\Desktop\Ausführungsdaten\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive - Universitaet Duisburg-Essen\Desktop\Ausführungsdaten\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.CopyComplete
+C:\Users\julia\OneDrive - Universitaet Duisburg-Essen\Desktop\Ausführungsdaten\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus_Daq_Example.exe
+C:\Users\julia\OneDrive - Universitaet Duisburg-Essen\Desktop\Ausführungsdaten\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus_Daq_Example.pdb
+C:\Users\dokha\Downloads\Ausführungsdaten\Ausführungsdaten\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.AssemblyReference.cache
+C:\Users\dokha\Downloads\Ausführungsdaten\Ausführungsdaten\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.SuggestedBindingRedirects.cache
+C:\Users\dokha\Downloads\Ausführungsdaten\Ausführungsdaten\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus_Daq_Example.exe
+C:\Users\dokha\Downloads\Ausführungsdaten\Ausführungsdaten\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus_Daq_Example.pdb
+C:\Users\dokha\Downloads\Ausführungsdaten\Ausführungsdaten_Update_2024\NoGravEx_V14\obj\Debug\Waveplus_Daq_Example.exe
+C:\Users\dokha\Downloads\Ausführungsdaten\Ausführungsdaten_Update_2024\NoGravEx_V14\obj\Debug\Waveplus_Daq_Example.pdb
+C:\Users\dokha\Downloads\Ausführungsdaten\Ausführungsdaten_Update_2024\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.AssemblyReference.cache
+C:\Users\dokha\Downloads\Ausführungsdaten\Ausführungsdaten_Update_2024\NoGravEx_V14\bin\Debug\Waveplus_Daq_Example.exe.config
+C:\Users\dokha\Downloads\Ausführungsdaten\Ausführungsdaten_Update_2024\NoGravEx_V14\bin\Debug\Waveplus_Daq_Example.exe
+C:\Users\dokha\Downloads\Ausführungsdaten\Ausführungsdaten_Update_2024\NoGravEx_V14\bin\Debug\Waveplus_Daq_Example.pdb
+C:\Users\dokha\Downloads\Ausführungsdaten\Ausführungsdaten_Update_2024\NoGravEx_V14\bin\Debug\CyUSB.dll
+C:\Users\dokha\Downloads\Ausführungsdaten\Ausführungsdaten_Update_2024\NoGravEx_V14\obj\Debug\NoGravEx_Entwurf2.NoGravEx_V2.resources
+C:\Users\dokha\Downloads\Ausführungsdaten\Ausführungsdaten_Update_2024\NoGravEx_V14\obj\Debug\Waveplus.DaqExample.WaveplusDaqExampleForm.resources
+C:\Users\dokha\Downloads\Ausführungsdaten\Ausführungsdaten_Update_2024\NoGravEx_V14\obj\Debug\Waveplus_Daq_Example.Properties.Resources.resources
+C:\Users\dokha\Downloads\Ausführungsdaten\Ausführungsdaten_Update_2024\NoGravEx_V14\obj\Debug\Waveplus.DaqExample.CaptureAndSensorConfigForm.resources
+C:\Users\dokha\Downloads\Ausführungsdaten\Ausführungsdaten_Update_2024\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.GenerateResource.cache
+C:\Users\dokha\Downloads\Ausführungsdaten\Ausführungsdaten_Update_2024\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.CoreCompileInputs.cache
+C:\Users\dokha\Downloads\Ausführungsdaten\Ausführungsdaten_Update_2024\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.CopyComplete
+C:\Users\dokha\Downloads\NoGravEx_V14\NoGravEx_V14\bin\Debug\Waveplus_Daq_Example.exe.config
+C:\Users\dokha\Downloads\NoGravEx_V14\NoGravEx_V14\bin\Debug\Waveplus_Daq_Example.exe
+C:\Users\dokha\Downloads\NoGravEx_V14\NoGravEx_V14\bin\Debug\Waveplus_Daq_Example.pdb
+C:\Users\dokha\Downloads\NoGravEx_V14\NoGravEx_V14\bin\Debug\CyUSB.dll
+C:\Users\dokha\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.AssemblyReference.cache
+C:\Users\dokha\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_Entwurf2.NoGravEx_V2.resources
+C:\Users\dokha\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus.DaqExample.WaveplusDaqExampleForm.resources
+C:\Users\dokha\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus_Daq_Example.Properties.Resources.resources
+C:\Users\dokha\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus.DaqExample.CaptureAndSensorConfigForm.resources
+C:\Users\dokha\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.GenerateResource.cache
+C:\Users\dokha\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.CoreCompileInputs.cache
+C:\Users\dokha\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\NoGravEx_V12.csproj.CopyComplete
+C:\Users\dokha\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus_Daq_Example.exe
+C:\Users\dokha\Downloads\NoGravEx_V14\NoGravEx_V14\obj\Debug\Waveplus_Daq_Example.pdb
+C:\Users\dokha\Documents\SMT_NoGravEx\bin\Debug\Waveplus_Daq_Example.exe.config
+C:\Users\dokha\Documents\SMT_NoGravEx\bin\Debug\Waveplus_Daq_Example.exe
+C:\Users\dokha\Documents\SMT_NoGravEx\bin\Debug\Waveplus_Daq_Example.pdb
+C:\Users\dokha\Documents\SMT_NoGravEx\obj\Debug\NoGravEx_V12.csproj.AssemblyReference.cache
+C:\Users\dokha\Documents\SMT_NoGravEx\obj\Debug\Waveplus.DaqExample.WaveplusDaqExampleForm.resources
+C:\Users\dokha\Documents\SMT_NoGravEx\obj\Debug\Waveplus_Daq_Example.Properties.Resources.resources
+C:\Users\dokha\Documents\SMT_NoGravEx\obj\Debug\Waveplus.DaqExample.CaptureAndSensorConfigForm.resources
+C:\Users\dokha\Documents\SMT_NoGravEx\obj\Debug\NoGravEx_V12.csproj.GenerateResource.cache
+C:\Users\dokha\Documents\SMT_NoGravEx\obj\Debug\NoGravEx_V12.csproj.CoreCompileInputs.cache
+C:\Users\dokha\Documents\SMT_NoGravEx\obj\Debug\Waveplus_Daq_Example.exe
+C:\Users\dokha\Documents\SMT_NoGravEx\obj\Debug\Waveplus_Daq_Example.pdb
+C:\Users\dokha\Documents\GitHub\TestClone\SMT_NoGravEx\bin\Debug\Waveplus_Daq_Example.exe.config
+C:\Users\dokha\Documents\GitHub\TestClone\SMT_NoGravEx\bin\Debug\Waveplus_Daq_Example.exe
+C:\Users\dokha\Documents\GitHub\TestClone\SMT_NoGravEx\bin\Debug\Waveplus_Daq_Example.pdb
+C:\Users\dokha\Documents\GitHub\TestClone\SMT_NoGravEx\bin\Debug\CyUSB.dll
+C:\Users\dokha\Documents\GitHub\TestClone\SMT_NoGravEx\obj\Debug\NoGravEx_V12.csproj.AssemblyReference.cache
+C:\Users\dokha\Documents\GitHub\TestClone\SMT_NoGravEx\obj\Debug\NoGravEx_Entwurf2.NoGravEx_V2.resources
+C:\Users\dokha\Documents\GitHub\TestClone\SMT_NoGravEx\obj\Debug\Waveplus.DaqExample.WaveplusDaqExampleForm.resources
+C:\Users\dokha\Documents\GitHub\TestClone\SMT_NoGravEx\obj\Debug\Waveplus_Daq_Example.Properties.Resources.resources
+C:\Users\dokha\Documents\GitHub\TestClone\SMT_NoGravEx\obj\Debug\Waveplus.DaqExample.CaptureAndSensorConfigForm.resources
+C:\Users\dokha\Documents\GitHub\TestClone\SMT_NoGravEx\obj\Debug\NoGravEx_V12.csproj.GenerateResource.cache
+C:\Users\dokha\Documents\GitHub\TestClone\SMT_NoGravEx\obj\Debug\NoGravEx_V12.csproj.CoreCompileInputs.cache
+C:\Users\dokha\Documents\GitHub\TestClone\SMT_NoGravEx\obj\Debug\NoGravEx.944E3642.Up2Date
+C:\Users\dokha\Documents\GitHub\TestClone\SMT_NoGravEx\obj\Debug\Waveplus_Daq_Example.exe
+C:\Users\dokha\Documents\GitHub\TestClone\SMT_NoGravEx\obj\Debug\Waveplus_Daq_Example.pdb
+C:\Users\dokha\Documents\SMT_NoGravEx\bin\Debug\lsl.dll
+C:\Users\dokha\Documents\SMT_NoGravEx\obj\Debug\NoGravEx.944E3642.Up2Date
+C:\Users\dokha\Documents\SMT_NoGravEx\bin\Debug\CyUSB.dll
+C:\Users\setup\Downloads\SMT_NoGravEx-niklas_emg_streaming\SMT_NoGravEx-niklas_emg_streaming\bin\Debug\lsl.dll
+C:\Users\setup\Downloads\SMT_NoGravEx-niklas_emg_streaming\SMT_NoGravEx-niklas_emg_streaming\bin\Debug\Waveplus_Daq_Example.exe.config
+C:\Users\setup\Downloads\SMT_NoGravEx-niklas_emg_streaming\SMT_NoGravEx-niklas_emg_streaming\bin\Debug\Waveplus_Daq_Example.exe
+C:\Users\setup\Downloads\SMT_NoGravEx-niklas_emg_streaming\SMT_NoGravEx-niklas_emg_streaming\bin\Debug\Waveplus_Daq_Example.pdb
+C:\Users\setup\Downloads\SMT_NoGravEx-niklas_emg_streaming\SMT_NoGravEx-niklas_emg_streaming\obj\Debug\NoGravEx_V12.csproj.AssemblyReference.cache
+C:\Users\setup\Downloads\SMT_NoGravEx-niklas_emg_streaming\SMT_NoGravEx-niklas_emg_streaming\obj\Debug\Waveplus.DaqExample.WaveplusDaqExampleForm.resources
+C:\Users\setup\Downloads\SMT_NoGravEx-niklas_emg_streaming\SMT_NoGravEx-niklas_emg_streaming\obj\Debug\Waveplus_Daq_Example.Properties.Resources.resources
+C:\Users\setup\Downloads\SMT_NoGravEx-niklas_emg_streaming\SMT_NoGravEx-niklas_emg_streaming\obj\Debug\Waveplus.DaqExample.CaptureAndSensorConfigForm.resources
+C:\Users\setup\Downloads\SMT_NoGravEx-niklas_emg_streaming\SMT_NoGravEx-niklas_emg_streaming\obj\Debug\NoGravEx_V12.csproj.GenerateResource.cache
+C:\Users\setup\Downloads\SMT_NoGravEx-niklas_emg_streaming\SMT_NoGravEx-niklas_emg_streaming\obj\Debug\NoGravEx_V12.csproj.CoreCompileInputs.cache
+C:\Users\setup\Downloads\SMT_NoGravEx-niklas_emg_streaming\SMT_NoGravEx-niklas_emg_streaming\obj\Debug\NoGravEx_V12.csproj.CopyComplete
+C:\Users\setup\Downloads\SMT_NoGravEx-niklas_emg_streaming\SMT_NoGravEx-niklas_emg_streaming\obj\Debug\Waveplus_Daq_Example.exe
+C:\Users\setup\Downloads\SMT_NoGravEx-niklas_emg_streaming\SMT_NoGravEx-niklas_emg_streaming\obj\Debug\Waveplus_Daq_Example.pdb

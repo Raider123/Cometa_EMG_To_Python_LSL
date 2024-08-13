@@ -1,0 +1,14 @@
+C:\Cometa\EMG_Systems\WaveplusSystem\WaveplusDaq\WaveplusDaq.NET\WaveplusDaq_4.2.0_2017_10_16\Trunk\Waveplus.Daq_SDK_4.2.0.0_2017_10_16\Waveplus.DaqExample\obj\Debug\Waveplus.DaqExample.exe
+C:\Cometa\EMG_Systems\WaveplusSystem\WaveplusDaq\WaveplusDaq.NET\WaveplusDaq_4.2.0_2017_10_16\Trunk\Waveplus.Daq_SDK_4.2.0.0_2017_10_16\Waveplus.DaqExample\obj\Debug\Waveplus.DaqExample.pdb
+C:\Cometa\EMG_Systems\WaveplusSystem\WaveplusDaq\WaveplusDaq.NET\WaveplusDaq_4.2.0_2017_10_16\Trunk\Waveplus.Daq_SDK_4.2.0.0_2017_10_16\Waveplus.DaqExample\bin\Debug\Waveplus.DaqExample.exe
+C:\Cometa\EMG_Systems\WaveplusSystem\WaveplusDaq\WaveplusDaq.NET\WaveplusDaq_4.2.0_2017_10_16\Trunk\Waveplus.Daq_SDK_4.2.0.0_2017_10_16\Waveplus.DaqExample\bin\Debug\Waveplus.DaqExample.pdb
+C:\Cometa\EMG_Systems\WaveplusSystem\WaveplusDaq\WaveplusDaq.NET\WaveplusDaq_4.2.0_2017_10_16\Trunk\Waveplus.Daq_SDK_4.2.0.0_2017_10_16\Waveplus.DaqExample\bin\Debug\Waveplus.DaqSys.dll
+C:\Cometa\EMG_Systems\WaveplusSystem\WaveplusDaq\WaveplusDaq.NET\WaveplusDaq_4.2.0_2017_10_16\Trunk\Waveplus.Daq_SDK_4.2.0.0_2017_10_16\Waveplus.DaqExample\bin\Debug\Waveplus.DaqSysInterface.dll
+C:\Cometa\EMG_Systems\WaveplusSystem\WaveplusDaq\WaveplusDaq.NET\WaveplusDaq_4.2.0_2017_10_16\Trunk\Waveplus.Daq_SDK_4.2.0.0_2017_10_16\Waveplus.DaqExample\bin\Debug\CyUSB.dll
+C:\Cometa\EMG_Systems\WaveplusSystem\WaveplusDaq\WaveplusDaq.NET\WaveplusDaq_4.2.0_2017_10_16\Trunk\Waveplus.Daq_SDK_4.2.0.0_2017_10_16\Waveplus.DaqExample\bin\Debug\Waveplus.DaqSysInterface.pdb
+C:\Cometa\EMG_Systems\WaveplusSystem\WaveplusDaq\WaveplusDaq.NET\WaveplusDaq_4.2.0_2017_10_16\Trunk\Waveplus.Daq_SDK_4.2.0.0_2017_10_16\Waveplus.DaqExample\bin\Debug\Waveplus.DaqSys.pdb
+C:\Cometa\EMG_Systems\WaveplusSystem\WaveplusDaq\WaveplusDaq.NET\WaveplusDaq_4.2.0_2017_10_16\Trunk\Waveplus.Daq_SDK_4.2.0.0_2017_10_16\Waveplus.DaqExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Cometa\EMG_Systems\WaveplusSystem\WaveplusDaq\WaveplusDaq.NET\WaveplusDaq_4.2.0_2017_10_16\Trunk\Waveplus.Daq_SDK_4.2.0.0_2017_10_16\Waveplus.DaqExample\obj\Debug\Waveplus.DaqExample.WaveplusDaqExampleForm.resources
+C:\Cometa\EMG_Systems\WaveplusSystem\WaveplusDaq\WaveplusDaq.NET\WaveplusDaq_4.2.0_2017_10_16\Trunk\Waveplus.Daq_SDK_4.2.0.0_2017_10_16\Waveplus.DaqExample\obj\Debug\Waveplus.DaqExample.Properties.Resources.resources
+C:\Cometa\EMG_Systems\WaveplusSystem\WaveplusDaq\WaveplusDaq.NET\WaveplusDaq_4.2.0_2017_10_16\Trunk\Waveplus.Daq_SDK_4.2.0.0_2017_10_16\Waveplus.DaqExample\obj\Debug\Waveplus.DaqExample.CaptureAndSensorConfigForm.resources
+C:\Cometa\EMG_Systems\WaveplusSystem\WaveplusDaq\WaveplusDaq.NET\WaveplusDaq_4.2.0_2017_10_16\Trunk\Waveplus.Daq_SDK_4.2.0.0_2017_10_16\Waveplus.DaqExample\obj\Debug\Waveplus.DaqExample.NET.3.5.csproj.GenerateResource.Cache
